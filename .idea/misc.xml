@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AW/WordsApp/accesswordsapp/src/main/res/menu/menu.xml" value="0.18697916666666667" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout-land/content_main.xml" value="0.20168066580377575" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/activity_main.xml" value="0.26621847886098404" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/activity_main2.xml" value="0.20168066580377575" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/activity_word_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/content_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/fragment_word_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/insert.xml" value="0.25364583333333335" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/item.xml" value="0.25364583333333335" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/layout/searchterm.xml" value="0.25364583333333335" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/menu/contextmenu_wordslistview.xml" value="0.25364583333333335" />
+        <entry key="..\:/AW/WordsApp/app/src/main/res/menu/menu_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/SDK/platforms/android-30/data/res/layout/auto_complete_list.xml" value="0.24166666666666667" />
+        <entry key="..\:/SDK/platforms/android-31/data/res/layout/auto_complete_list.xml" value="0.25729166666666664" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout-land/content_main.xml" value="0.16770833333333332" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/activity_main.xml" value="0.15307971014492755" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/activity_main2.xml" value="0.14583333333333334" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/activity_word_detail.xml" value="0.15307971014492755" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/content_main.xml" value="0.14583333333333334" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/fragment_word_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/insert.xml" value="0.16666666666666666" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/layout/searchterm.xml" value="0.4" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/menu/contextmenu_wordslistview.xml" value="0.25885416666666666" />
+        <entry key="..\:/Wordbookapp/WordsApp/app/src/main/res/menu/menu_main.xml" value="0.25885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
